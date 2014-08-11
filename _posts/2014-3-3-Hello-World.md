@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Hellas Handboll Klubb
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Hellas Handboll
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+!Träningar
+Måndagar 21.00-22.30
+Onsdagar 21.00-22.30
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+!Kontakt
+Johan Cahp 08-679 19 30
